@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+witty and free, i must now go pee
 Use the left arrow to go back!
